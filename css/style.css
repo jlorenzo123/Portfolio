@@ -1,0 +1,76 @@
+/* This body code is used to keep the entire web page underneath the purple header, otherwise the web page info will showup on the purple banner, so the padding-top pushed the text below */
+
+body {
+  padding-top: 70px;
+  background-color: gray;
+}
+
+.purple-background {
+  background-color: purple;
+}
+
+#avatar-pic {
+  width: 240px;
+  height: 236px;
+}
+
+img {
+  max-width: 100%
+}
+
+#horizontal-line {
+  width: 100%;
+  border-top: 10px solid black;
+  margin-top: 10px;
+}
+
+#horizontal-line2 {
+  width: 100%;
+  border-top: 5px solid black;
+  margin-top: 5px;
+}
+
+.qlip-color {
+  color: white;
+}
+
+.qlip-color h2 {
+  font-size: 35px;
+  font-family: Book Antigua;
+}
+
+#top-text {
+  font-family: 'arial';
+  font-size: 20px;
+  color: black;
+  background-color: white;
+}
+
+#webdeveloper-text {
+  font-family: 'arial';
+  font-size: 20px;
+  color;
+  red;
+}
+
+HR {
+  <HR SIZE="6">
+}
+
+contact-me {
+  text-align: center;
+}
+
+#header-wrap {
+  position: fixed;
+  height: auto;
+  width: 100%;
+  z-index: 100
+}
+
+#port-folio-text {
+  font-family: arial;
+  font-size: 30px;
+  font-weight: bold;
+  color: gray;
+}
