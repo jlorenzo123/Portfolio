@@ -9,8 +9,6 @@ body {
   background-color: purple;
 }
 
-
-
 #avatar-pic {
   width: 180px;
   height: 180px;
@@ -76,7 +74,6 @@ contact-me {
   font-weight: bold;
   color: gray;
 }
-
 
 .port-folio-left-align {
     text-align: left;
