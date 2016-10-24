@@ -9,9 +9,11 @@ body {
   background-color: purple;
 }
 
+
+
 #avatar-pic {
-  width: 240px;
-  height: 236px;
+  width: 180px;
+  height: 180px;
 }
 
 img {
@@ -76,6 +78,14 @@ contact-me {
 }
 
 
-portfolioCenter {
+.port-folio-left-align {
     text-align: left;
+}
+
+hr.style8:after {
+	content: '';
+	display: block;
+	margin-top: 4px;
+	border-top: 1px solid #8c8b8b;
+	border-bottom: 1px solid #fff;
 }
