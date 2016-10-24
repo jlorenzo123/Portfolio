@@ -3,7 +3,7 @@
 body {
   padding-top: 70px;
   background-color: gray;
-}     
+}
 
 .purple-background {
   background-color: purple;
@@ -21,7 +21,7 @@ img {
 #horizontal-line {
   width: 100%;
   border-top: 10px solid black;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 #horizontal-line2 {
@@ -57,7 +57,7 @@ HR {
   <HR SIZE="6">
 }
 
-contact-me {
+#contact-me {
   text-align: center;
 }
 
