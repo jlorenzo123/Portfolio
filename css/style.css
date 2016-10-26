@@ -1,92 +1,209 @@
 /* This body code is used to keep the entire web page underneath the purple header, otherwise the web page info will showup on the purple banner, so the padding-top pushed the text below */
 
+
+
 body {
-  padding-top: 70px;
-  background-color: gray;
+
+padding-top: 70px;
+
+background-color: gray;
+
 }
+
+
 
 .purple-background {
-  background-color: purple;
+
+background-color: purple;
+
 }
+
+
 
 #avatar-pic {
-  width: 180px;
-  height: 180px;
+
+width: 180px;
+
+height: 180px;
+
 }
+
+
 
 img {
-  max-width: 100%
+
+max-width: 100%
+
 }
+
+
 
 #horizontal-line {
-  width: 100%;
-  border-top: 10px solid black;
-  margin-top: 5px;
+
+width: 100%;
+
+border-top: 10px solid black;
+
+margin-top: 5px;
+
 }
+
+
 
 #horizontal-line2 {
-  width: 100%;
-  border-top: 5px solid black;
-  margin-top: 5px;
+
+width: 100%;
+
+border-top: 5px solid black;
+
+margin-top: 5px;
+
 }
+
+
 
 .qlip-color {
-  color: white;
+
+color: white;
+
 }
+
+
 
 .qlip-color h2 {
-  font-size: 35px;
-  font-family: Book Antigua;
+
+font-size: 35px;
+
+font-family: Book Antigua;
+
 }
+
+
 
 #top-text {
-  font-family: 'arial';
-  font-size: 18px;
-  color: black;
-  background-color: white;
+
+font-family: 'arial';
+
+font-size: 18px;
+
+color: black;
+
+background-color: white;
+
 }
+
+
 
 #webdeveloper-text {
-  font-family: 'arial';
-  font-size: 10px;
-  color;
-  red;
+
+font-family: 'arial';
+
+font-size: 10px;
+
+color;
+
+red;
+
 }
+
+
 
 HR {
-  <HR SIZE="6">
+
+<HR SIZE="6">
+
 }
+
+
 
 #contact-me {
-  text-align: center;
+
+text-align: center;
+
 }
+
+
 
 #center-text {
-  text-align: center;
+
+text-align: center;
+
 }
+
+
 
 #header-wrap {
-  position: fixed;
-  height: auto;
-  width: 100%;
-  z-index: 100
+
+position: fixed;
+
+height: auto;
+
+width: 100%;
+
+z-index: 100
+
 }
+
+
 
 #port-folio-text {
-  font-family: arial;
-  font-size: 20px;
-  font-weight: bold;
-  color: gray;
+
+font-family: arial;
+
+font-size: 20px;
+
+font-weight: bold;
+
+color: gray;
+
 }
+
+
 
 .port-folio-left-align {
-    text-align: center;
+
+  text-align: center;
+
 }
 
+
+
 hr.style8:after {
-	content: '';
-	display: block;
-	margin-top: 4px;
-	border-top: 1px solid #8c8b8b;
-	border-bottom: 1px solid #fff;
+
+   content: '';
+
+   display: block;
+
+   margin-top: 4px;
+
+   border-top: 1px solid #8c8b8b;
+
+   border-bottom: 1px solid #fff;
+
+}
+
+
+
+.navbar-fixed-top .btn{
+
+margin-top: 15px;
+
+margin-bottom:15px;
+
+}
+
+
+
+.navbar-fixed-top .text-left{
+
+float:left;
+
+}
+
+
+
+.navbar-fixed-top .text-right{
+
+float:right;
+
 }
