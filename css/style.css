@@ -20,7 +20,7 @@ img {
 
 #horizontal-line {
   width: 100%;
-  border-top: 10px solid black; 
+  border-top: 10px solid black;
   margin-top: 5px;
 }
 
@@ -41,14 +41,14 @@ img {
 
 #top-text {
   font-family: 'arial';
-  font-size: 20px;
+  font-size: 18px;
   color: black;
   background-color: white;
 }
 
 #webdeveloper-text {
   font-family: 'arial';
-  font-size: 20px;
+  font-size: 10px;
   color;
   red;
 }
@@ -61,6 +61,10 @@ HR {
   text-align: center;
 }
 
+#center-text {
+  text-align: center;
+}
+
 #header-wrap {
   position: fixed;
   height: auto;
@@ -70,13 +74,13 @@ HR {
 
 #port-folio-text {
   font-family: arial;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: bold;
   color: gray;
 }
 
 .port-folio-left-align {
-    text-align: left;
+    text-align: center;
 }
 
 hr.style8:after {
