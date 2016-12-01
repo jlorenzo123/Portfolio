@@ -1,4 +1,4 @@
-/* This body code is used to keep the entire web page underneath the purple header, otherwise the web page info will showup on the purple banner, so the padding-top pushed the text below */
+/* This body code is used to keep the entire web page underneath the blue header, otherwise the web page info will showup on the blue banner, so the padding-top pushed the text below */
 
 
 
@@ -12,9 +12,9 @@ background-color: gray;
 
 
 
-.purple-background {
+.blue-background {
 
-background-color: purple;
+background-color: blue;
 
 }
 
